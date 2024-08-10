@@ -1,46 +1,24 @@
-# Getting Started with Create React App
+# Customer Portal
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to the **Customer Portal** project! This application provides a user interface for viewing customer details and photos. The project includes a landing page that transitions into a customer portal where you can view a list of customers and their details.
 
-## Available Scripts
+## Features
 
-In the project directory, you can run:
+- **Landing Page**: Displays a welcoming page with navigation options to enter the customer portal.
+- **Customer List**: Shows a list of customers with selectable options to view details.
+- **Customer Details**: Displays detailed information about the selected customer, including name, title, address, and a photo grid.
+- **Photo Grid**: Shows a grid of photos related to the selected customer, with automatic refreshing and shuffling every 10 seconds.
 
-### `npm start`
+## Technologies Used
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- **React**: Frontend framework for building the user interface.
+- **Tailwind CSS**: Utility-first CSS framework for styling.
+- **Axios**: HTTP client for making API requests.
+- **TypeScript**: Adds static types to JavaScript, ensuring type safety.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Installation
 
-### `npm test`
+1. **Clone the repository:**
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+   ```bash
+   git clone https://github.com/your-username/customer-portal.git
