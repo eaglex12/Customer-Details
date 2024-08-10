@@ -22,3 +22,10 @@ Welcome to the **Customer Portal** project! This application provides a user int
 
    ```bash
    git clone https://github.com/your-username/customer-portal.git
+2 . **Navigate to the project directory:**
+
+   ```bash
+   cd CUBE
+
+3.  **Navigate to the project directory:**
+   
