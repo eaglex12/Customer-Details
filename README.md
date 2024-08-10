@@ -18,14 +18,21 @@ Welcome to the **Customer Portal** project! This application provides a user int
 
 ## Installation
 
-1. **Clone the repository:**
+1. Clone the repository:
 
    ```bash
    git clone https://github.com/your-username/customer-portal.git
-2 . **Navigate to the project directory:**
-
+   
+2. Change to the project's directory:   
+    ```bash  
+    cd customer-portal
+3. Install dependencies:   
    ```bash
-   cd CUBE
-
-3.  **Navigate to the project directory:**
+   npm install
+4. Start the development server:   
+   ```bash
+   npm start
+5. Open the application in your browser:   
+   ```bash
+   Open a web browser and navigate to http://localhost:3000 to access the application.
    
